@@ -1,0 +1,27 @@
+
+###
+### YAML
+###
+['test_strings',
+ '1',
+ '2',
+ '3',
+ {'ip_addr': '192.168.1.214', 'manufacturer': 'Cisco', 'model': '2504'},
+ 'python',
+ 'neteng']
+
+
+
+###
+### JSON
+###
+[u'test_strings',
+ u'1',
+ u'2',
+ u'3',
+ {u'ip_addr': u'192.168.1.214', u'manufacturer': u'Cisco', u'model': u'2504'},
+ u'python',
+ u'neteng']
+
+
+
